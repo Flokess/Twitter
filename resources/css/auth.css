@@ -1,0 +1,17 @@
+.content{
+    box-sizing: border-box;
+
+    position: absolute;
+    max-width: 810px;
+    width: 100%;
+    height: 940px;
+    left: 555px;
+    top: 70px;
+    border: solid #373737;
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color: red;
+    color: red;
+}
